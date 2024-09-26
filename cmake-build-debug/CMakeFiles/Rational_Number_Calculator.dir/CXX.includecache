@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rscov/Desktop/school/prog2100/assignments/Assignment3/Rational Number Calculator/Driver.cpp
+Driver.h
+C:/Users/rscov/Desktop/school/prog2100/assignments/Assignment3/Rational Number Calculator/Driver.h
+RationalNumber.h
+C:/Users/rscov/Desktop/school/prog2100/assignments/Assignment3/Rational Number Calculator/RationalNumber.h
+
+C:/Users/rscov/Desktop/school/prog2100/assignments/Assignment3/Rational Number Calculator/Driver.h
+
+C:/Users/rscov/Desktop/school/prog2100/assignments/Assignment3/Rational Number Calculator/RationalNumber.h
+iostream
+-
+sstream
+-
+
